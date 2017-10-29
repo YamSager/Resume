@@ -1,4 +1,5 @@
-Resume for Samuel Yager 
+Resume for Samuel Yager
+ 
 Content accurate to October 2017.
 
 Dependent on RPI res.cls
